@@ -1,0 +1,21 @@
+html{
+    background-image: url(https://c.tenor.com/1AhUNYnySx4AAAAC/f-bi-raid.gif);
+    background-repeat: no-repeat;
+    background-size: 2000px 1050px;
+}
+
+.first{
+    position: absolute;
+    left: 27%;
+    top: 33%;
+    color: #ff0033;
+    font-size: 70px;
+}
+
+.second{
+    position: absolute;
+    left: 30%;
+    top: 38%;
+    color: #ff0033;
+    font-size: 120px;
+}
